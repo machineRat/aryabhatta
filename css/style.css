@@ -2,15 +2,7 @@ h1{
     color: rgb(72, 17, 175);
     font-family: Helvetica,sans-serif;
 }
-.imagen{
-    
-    border-color: black;
-    border-width: 5px;
-    border-style: solid;
-    border-radius: 50%;
-    margin: 20px;
-    
-}
+
 .inventions{
     background-color: tomato;
     color: white;
